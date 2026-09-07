@@ -1,0 +1,62 @@
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+ul li {
+    float: right;
+}
+
+ul li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+}
+
+ul li a:hover {
+    background-color: #1111;
+}
+
+table, th, td {
+    border-style: double;
+    border-color: black;
+}
+
+img {
+    border-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    width: 250px;
+}
+
+body {
+    background-image: url('pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+    color: yellow;
+}
+
+table {
+    background-color: gainsboro;
+}
+
+h2 {
+    color: yellow;
+}
+
+table {
+    color: black;
+}
